@@ -1,12 +1,13 @@
 ### Hi there! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="25"/>
 
 
-<img align='right' src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348' width='330' height='330'>
+<img align='right' src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348' width='100' height='100'>
 
 I'm [**Mahendra**](https://www.linkedin.com/in/mahendramohamadtanjung), a casual programmer and student.
 
 I am an incoming Intern on January 2026 & Computer Science Student at [@Universiti Teknologi PETRONAS](https://www.utp.edu.my).
 
+## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="25"> 
 
 | Category        | Skills        |
 |-----------------|---------------|
